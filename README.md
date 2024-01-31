@@ -1,6 +1,6 @@
 # Time-series-forecasting-using-Prophet
 
-![image](https://github.com/FeresDarouich/Time-series-forecasting-using-Prophet/assets/120333973/0d6838bf-b9f9-4239-9ad8-8d5e2fe6f31a)
+                ![image](https://github.com/FeresDarouich/Time-series-forecasting-using-Prophet/assets/120333973/0d6838bf-b9f9-4239-9ad8-8d5e2fe6f31a)
 
 Prophet is a forecasting tool developed by Facebook for time series data, and it is designed to handle data with strong seasonal patterns and multiple seasonality. Here is a high-level overview of how the Prophet model works:
 
